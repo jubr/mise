@@ -1,5 +1,16 @@
 # Changelog
 
+## [2025.1.17](https://github.com/jdx/mise/compare/v2025.1.16..v2025.1.17) - 2025-01-30
+
+### 📚 Documentation
+
+- Update python documentation by [@hverlin](https://github.com/hverlin) in [#4260](https://github.com/jdx/mise/pull/4260)
+- fix postinstall typo in nodejs cookbook by [@arafays](https://github.com/arafays) in [#4251](https://github.com/jdx/mise/pull/4251)
+
+### New Contributors
+
+- @arafays made their first contribution in [#4251](https://github.com/jdx/mise/pull/4251)
+
 ## [2025.1.16](https://github.com/jdx/mise/compare/v2025.1.15..v2025.1.16) - 2025-01-29
 
 ### 🚀 Features
